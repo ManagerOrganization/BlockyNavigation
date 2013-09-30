@@ -8,7 +8,7 @@ Using It
 ========
 
  `#import "UINavigationController+BlockyNavigation.h"` wherever you need.
- Conform your UIViewController subclasses to the '<BlockyNavigation>' Protocol
+ Conform your UIViewController subclasses to the `<BlockyNavigation>` Protocol
  Implement the following methods:
 
 
